@@ -2,11 +2,11 @@
   "projectId": "LearningPortal",
   "schemaVersion": 1,
   "base": "/learning-portal/",
-  "generatedAt": "2026-09-18T06:23:40.101Z",
+  "generatedAt": "2026-09-18T17:03:38.381Z",
   "files": {
-    "index.html": "2a4a3a29ac1a44650373f298752030387cc7e0c6ab57813c105bdf5f39cc237a",
+    "index.html": "c29414597627f568245b0a6bf2eaab70af88c3500a26630e487f328b14e7c5e4",
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "assets/main.css": "256a6a43db49a70d90939811aa9f73c8186949fc32c6634709960fb6908bef1a",
-    "assets/main.js": "7dc228d813ac254742ca7a6813048c6b79db065639662ad96476493a423e917a"
+    "assets/main.css": "59c740c1e68878f4c3b81713721d1bcbdb7f0434d4f752372fc2b84eaca3d554",
+    "assets/main.js": "46605305327850bfedfb4526cbf0d74e916f84fd898cc012072ebfef8c37835a"
   }
 }

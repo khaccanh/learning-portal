@@ -2,12 +2,12 @@
   "projectId": "LearningPortal",
   "schemaVersion": 1,
   "base": "/learning-portal/",
-  "generatedAt": "2026-09-22T08:35:59.209Z",
+  "generatedAt": "2026-09-23T07:34:23.749Z",
   "files": {
-    "index.html": "0393a01ee0fbba8d3e86bc6de58a1f1a2d666bce415d82dc9298d39c4a71d438",
+    "index.html": "40c79cd44ff7bc418165b9044585cff53571e2d89c1d8b9fe53984b0954d2c8b",
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "assets/main.css": "bd21ea89d0b0123c4c149d7467a5908dead575476d7b10bb643c824dd625fc47",
-    "assets/main.js": "7fe317c3d89ad947aff1ea5041f34ae1654348ee53e4fd94a1697f34c8da20d0",
+    "assets/main.css": "6cbbb4c50594b91e343a7945e3c1e04bca47862fc3f1b6059c2a6aad4e31adaf",
+    "assets/main.js": "0b54e1c16c6ca45853bd2f5c21b09fe9f7aef4045997132f7598676f9a26ba5a",
     "assets/vpi-logo.jpg": "cdfa633d7110d58dd779d72624969d2802c7de8505b07fb9d5de151ba6a793c8"
   }
 }
